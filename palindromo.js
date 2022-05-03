@@ -1,4 +1,4 @@
-
+//O codigo irá descobrir se a string imputada é uo não um palindromo
 
 
 
