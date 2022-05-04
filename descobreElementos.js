@@ -1,3 +1,5 @@
+//A função irá descobrir quais elementos da array imputada somados irão resultar no target
+
 var descobreNumeros= function(nums, target) {
     for(n1=0; n1 < nums.length; n1++ ){
         
