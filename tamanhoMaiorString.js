@@ -11,5 +11,5 @@ var lengthOfLongestSubstring = function(s) {
         arrUsados.push(s[atual])
         }
     }
-    
+    return arrUsados.length
 };
