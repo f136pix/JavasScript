@@ -1,5 +1,5 @@
 //A função irá receber uma array de numeros em ordem e a partir deles irá descobrir qual a menor quantidade de numeros que pode ser usado
-//para chegar ao "amount" recebido
+//para chegar ao "amount" recebido.Caso isso não seja possivel,será retornado o valor -1
 
 
 var coinChange = function(coins, amount) {
