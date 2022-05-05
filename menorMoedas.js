@@ -20,4 +20,4 @@ var coinChange = function(coins, amount) {
     return -1
 };
 
-coinChange([1,2,5],11)
+
