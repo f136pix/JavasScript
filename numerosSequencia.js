@@ -1,3 +1,6 @@
+//O código irá receber dois numeros de um a nove e irá dizer todas as possibilidades de string de um teclado numérico como o de um telefone.
+
+
 function letterCombinations(digits) {
     let possibleCombinations = []
     const letters = ["abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"]
