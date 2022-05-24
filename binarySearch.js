@@ -1,4 +1,4 @@
-
+//Binary Search/Busca Binaria
 
 function BinarySearch(arr, left, right, searching){
     const pivot = math.floor((left + right) /2)
